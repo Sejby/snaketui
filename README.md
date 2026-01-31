@@ -28,4 +28,7 @@ Don't let the snake eat its own tail. The game literally tells you this.
 
 ## Why?
 
-Built with Rust because memory safety is important, even for silly snake games.
+Built with Rust because memory safety is important, even for silly snake games. And to practice my rust skills.
+
+## Disclaimer
+No vibe coding was used during the making of this.
